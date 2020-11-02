@@ -6,7 +6,7 @@ namespace dumb {
     
         static void Main(string[] args) {
         
-        Console.WriteLine("fuck you");
+        Console.WriteLine("╭( ͝ಠل͜ಠ)つ");
         Console.ReadKey();
         
         }
